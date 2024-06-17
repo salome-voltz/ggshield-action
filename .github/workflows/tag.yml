@@ -38,5 +38,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
 
-          git tag -fa major -m 'Update major version tag'
-          git push origin major --force
+          git tag -fa ${MAJOR} -m 'Update major version tag'
+          git push origin ${MAJOR} --force
