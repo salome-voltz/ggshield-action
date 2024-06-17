@@ -104,3 +104,5 @@ Be sure to add `GitGuardian scan` to your required status checks in your reposit
 # License
 
 **GitGuardian shield** is MIT licensed.
+
+Updated readme
